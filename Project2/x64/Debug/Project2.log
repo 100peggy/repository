@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\c語言都放這裡\Project2\Project2\FileName.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> D:\c語言都放這裡\Project2\x64\Debug\Project2.exe
